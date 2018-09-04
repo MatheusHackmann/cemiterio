@@ -1,0 +1,27 @@
+.form-cad-obito {
+	margin-top: 1%;
+	margin-bottom: 1%;
+	border: 1px solid #000;
+	border-radius: 5px;
+	padding: 2%;
+	background-color: #fff;
+}
+
+.btn-b {
+	color: #000;
+	background-color: #fff;
+	border-color: #000;
+}
+
+.btn-b:hover {
+	color: #fff;
+	background-color: #000;
+	border-color: #000;
+}
+
+.form-login {
+	margin-top: 10%;
+	border: 1px solid #c2c2c2; 
+	border-radius: 5px;
+	box-shadow: 5px 5px 10px black;
+}
